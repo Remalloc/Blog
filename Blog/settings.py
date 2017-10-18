@@ -78,7 +78,7 @@ DATABASES = {
         'NAME': 'blog',
         'USER': 'vbover',
         'PASSWORD': 'django1.9',
-        'HOST': '',
+        'HOST': 'vbover.mysql.pythonanywhere-services.com',
         'PORT': 3306,
     }
 }
