@@ -75,7 +75,7 @@ WSGI_APPLICATION = 'Blog.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'blog',
+        'NAME': 'vbover$blog',
         'USER': 'vbover',
         'PASSWORD': 'django1.9',
         'HOST': 'vbover.mysql.pythonanywhere-services.com',
